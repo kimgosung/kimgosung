@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung) 
 <img src="http://mazandi.herokuapp.com/api?handle=kimgosung&theme=Cold"/>
 
 ![kimgosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true&theme=normal)
