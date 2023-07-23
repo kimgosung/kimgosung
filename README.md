@@ -14,8 +14,8 @@
 		</div>
     	<h3 align="center">Tools</h3>
      		<div align="center">
-     			<img src="https://img.shields.io/badge/Node.js-339933?style=rounded-square&logo=Github&logoColor=white"/>
-       			<img src="https://img.shields.io/badge/Node.js-339933?style=rounded-square&logo=Slack&logoColor=white"/>
+     			<img src="https://img.shields.io/badge/Github-252525?style=rounded-square&logo=Github&logoColor=white"/>
+       			<img src="https://img.shields.io/badge/Slack-36C5F0?style=rounded-square&logo=Slack&logoColor=white"/>
 	 	</div>
 
 
