@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Greentea%20Github&fontSize=70)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={kimgosung})](https://solved.ac/{kimgosung})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={kimgosung})](https://solved.ac/profile/{kimgosung})
 
 <h1 align="center">📚My Tech Stack 📚</h1>
 <p align="center">
