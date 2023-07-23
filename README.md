@@ -2,8 +2,7 @@
 
 <h1 align="center">📚My Baekjoon Status📚</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)" "
 <img src="http://mazandi.herokuapp.com/api?handle=kimgosung&theme=Cold"/>
 
 
