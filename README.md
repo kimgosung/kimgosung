@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Greentea%20Github&fontSize=70)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
-![kimgosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true&theme=radical)
+![kimgosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true&theme=normal)
 
 <h1 align="center">📚My Tech Stack 📚</h1>
 <p align="center">
