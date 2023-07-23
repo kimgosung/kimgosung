@@ -2,9 +2,11 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Greentea%20Github&fontSize=70)
 
+
+
 </div>
 
-<h1 align="center">📚My Tech Stack 📚</h1>
+<h2 align="center">📚My Tech Stack 📚</h1>
 <p align="center">
 	<h3 align="center">Platforms & Languages</h3>
 		<div align="center">
@@ -26,8 +28,13 @@
 
    	
 </p>
+<div>
 
-<h1 align="center">📚My Baekjoon Status📚</h1>
+
+
+ 
+</div>
+<h2 align="center">📚My Baekjoon Status📚</h1>
 
 <div align="center">
 
