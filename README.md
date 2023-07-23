@@ -26,8 +26,9 @@
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 	 	</div>
 
-   	
 </p>
+
+
 
 <h2 align="center">📚My Baekjoon Status📚</h1>
 
