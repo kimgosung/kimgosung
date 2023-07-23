@@ -19,7 +19,6 @@
        			<img src="https://img.shields.io/badge/Slack-36C5F0?style=rounded-square&logo=Slack&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Perforce-00AEEF?style=rounded-square&logo=Perforce&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=rounded-square&logo=Jira&logoColor=white"/>
-
 	 	</div>
 
 
