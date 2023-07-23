@@ -1,5 +1,8 @@
+<div align="center">
+	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Greentea%20Github&fontSize=70)
 
+</div>
 <h1 align="center">📚My Baekjoon Status📚</h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)<div>  </div>
