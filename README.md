@@ -19,11 +19,10 @@
 			<img src="https://img.shields.io/badge/Perforce-00AEEF?style=rounded-square&logo=Perforce&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=rounded-square&logo=Jira&logoColor=white"/>
 	 	</div>
+   			[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
+
    		<div>
 			<img src="https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true">
-			[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
 
     		</div>
-
-
 </p>
