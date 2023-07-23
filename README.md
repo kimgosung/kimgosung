@@ -21,7 +21,6 @@
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=rounded-square&logo=Jira&logoColor=white"/>
 	 	</div>
    		<div>
-     			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgosung&layout=compact"><br><br>
 			<img src="https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true">
     		</div>
 
