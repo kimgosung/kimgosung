@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Greentea%20Github&fontSize=70)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
-	<div>
-			<img src="https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true">
-
-    		</div>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true">
+</div>
 
 <h1 align="center">📚My Tech Stack 📚</h1>
 <p align="center">
@@ -15,7 +14,7 @@
 			<img src="https://img.shields.io/badge/HTML5-E34F26?style=rounded-square&logo=HTML5&logoColor=white" />
 			<img src="https://img.shields.io/badge/CSS3-1572B6?style=rounded-square&logo=CSS3&logoColor=white" />
 	  		<img src="https://img.shields.io/badge/Node.js-339933?style=rounded-square&logo=Node.js&logoColor=white"/>
-			<img src="https://img.shields.io/badge/AWS-232F3E?style=rounded-square&logo=Amazon&logoColor=white"/>
+			<img src="https://img.shields.io/badge/AWS-232F3E?style=rounded-square&logo=Amazon%20&logoColor=white"/>
 		</div>
     	<h3 align="center">Tools</h3>
      		<div align="center">
