@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)<div>  </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung)
 <img src="http://mazandi.herokuapp.com/api?handle=kimgosung&theme=Cold"/>
 
 
