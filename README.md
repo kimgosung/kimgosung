@@ -30,6 +30,9 @@
 </p>
 <div>
 &nbps
+&nbps
+	&nbps
+	&nbps
 </div>
 <h2 align="center">📚My Baekjoon Status📚</h1>
 
