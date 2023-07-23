@@ -20,6 +20,10 @@
 			<img src="https://img.shields.io/badge/Perforce-00AEEF?style=rounded-square&logo=Perforce&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=rounded-square&logo=Jira&logoColor=white"/>
 	 	</div>
+   		<div>
+     			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlarhtjd0123@gmail.com&layout=compact"><br><br>
+			<img src="https://github-readme-stats.vercel.app/api?username=rlarhtjd0123@gmail.com&show_icons=true">
+    		</div>
 
 
 </p>
