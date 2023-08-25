@@ -25,10 +25,6 @@
 			<img src="https://img.shields.io/badge/Perforce-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 	 	</div>
-       	<h3 align="center">수상 경력</h3>
-		<div align="center">
-  			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
-		</div>
 </p>
 
 
@@ -44,3 +40,8 @@
 
 </div>
 
+
+<h2 align="center">📚수상 경력📚</h2>
+		<div align="center">
+  			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
+		</div>
