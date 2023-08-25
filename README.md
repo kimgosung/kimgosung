@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center">📚My Tech Stack 📚</h1>
+<h2 align="center">📚 나의 기술 스택 📚</h1>
 <p align="center">
 	<h3 align="center">Platforms & Languages</h3>
 		<div align="center">
@@ -29,7 +29,7 @@
 
 
 
-<h2 align="center">📚My Baekjoon Status📚</h2>
+<h2 align="center">📚 백준&깃허브 상태 📚</h2>
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 </div>
 
 
-<h2 align="center">📚수상 경력📚</h2>
+<h2 align="center">📚 수상 경력 📚</h2>
 		<div align="center">
   			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
 		</div>
