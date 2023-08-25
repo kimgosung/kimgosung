@@ -30,7 +30,7 @@
 
 
 
-<h2 align="center">📚My Baekjoon Status📚</h1>
+<h2 align="center">📚My Baekjoon Status📚</h2>
 
 <div align="center">
 
