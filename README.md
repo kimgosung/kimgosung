@@ -45,3 +45,8 @@
 		<div align="center">
   			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
 		</div>
+
+<h2 align="center">📚 교내 활동 📚</h2>
+		<div align="center">
+  			<p>UX/UI 학부연구생 : 2022년 9월 ~ 2023년 9월</p>
+		</div>
