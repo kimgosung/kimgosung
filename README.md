@@ -44,9 +44,10 @@
 <h2 align="center">📚 수상 경력 📚</h2>
 		<div align="center">
   			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
+			<p>2023 창의설계 경진대회 : ChatGPT와 Elastic Search를 활용한 차세대 건국대학교 챗봇 서비스 AnyTime(금상)</p>
 		</div>
 
 <h2 align="center">📚 교내 활동 📚</h2>
 		<div align="center">
-  			<p>UX/UI 학부연구생 : 2022년 9월 ~ 2023년 9월</p>
+  			<p>HCI(Human Computer Interaction) 학부연구생 : 2022년 9월 ~ 2023년 9월</p>
 		</div>
