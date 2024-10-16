@@ -27,15 +27,6 @@
 	 	</div>
 </p>
 
-
-
-<h2 align="center">📚 깃허브 상태 📚</h2>
-
-![kimgosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true&theme=normal)
-
-</div>
-
-
 <h2 align="center">📚 수상 경력 📚</h2>
 		<div align="center">
   			<p>2022 전국 대학생 아이디어 경진대회 : Phothon Fusion기반 온라인 VR 데이팅 플랫폼(우수상)</p>
