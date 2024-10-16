@@ -29,12 +29,7 @@
 
 
 
-<h2 align="center">📚 백준&깃허브 상태 📚</h2>
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimgosung)](https://solved.ac/kimgosung) 
-<img src="http://mazandi.herokuapp.com/api?handle=kimgosung&theme=Cold"/>
+<h2 align="center">📚 깃허브 상태 📚</h2>
 
 ![kimgosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgosung&show_icons=true&theme=normal)
 
