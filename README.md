@@ -11,6 +11,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimgosung&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<div>
+     
+</div>
+
 <h2>Awards 🏆</h2>
 <div>
 <h4>1️⃣ 2022 전국 아이디어 경진대회 - 우수상</h4>
@@ -28,3 +32,14 @@
 <h4>4️⃣ 2024 딘스리스트</h4>
 <li>성적 우수 학생</li>
 </div>
+
+<div>
+     
+</div>
+
+<h2>Activity 📚</h2>
+<h4>🧑‍💻 건국대학교 HCI 학부 연구 인턴(UI/UX Undergraduate research assistant)</h4>
+<h4>🧑‍💻 건국대학교 IT 컨퍼런스 소모임 KONNECT 운영</h4>
+<h4>🧑‍💻 2023 교내 SW 경진대회 출전</h4>
+<h4>🧑‍💻 2023 Prompter Day 출전</h4>
+<h4>🧑‍💻 2024 공개 SW 개발자 대회 출전(본선 진출)</h4>
