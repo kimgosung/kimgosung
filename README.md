@@ -15,31 +15,36 @@
      
 </div>
 
-<h2>Awards 🏆</h2>
-<div>
-<h4>1️⃣ 2022 전국 아이디어 경진대회 - 우수상</h4>
-<li>온라인 VR 데이팅 플랫폼 아이디어 구체화를 통한 서비스</li>
-</div>
-<div>
-<h4>2️⃣ 2023 창의설계 경진대회 - 금상(총장상)</h4>
-<li>차세대 건국대학교 챗봇 서비스 구현 및 시연</li>
-</div>
-<div>
-<h4>3️⃣ 2022 실감미디어 창업 퍼실리테이팅 - 우수상</h4>
-<li>METADATE 창업팀 발표회</li>
-</div>
-<div>
-<h4>4️⃣ 2024 딘스리스트</h4>
-<li>성적 우수 학생</li>
-</div>
+## Skills & Tools 🛠️
 
-<div>
-     
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-242424?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h2>Activity 📚</h2>
-<h4>🧑‍💻 건국대학교 HCI 학부 연구 인턴(UI/UX Undergraduate research assistant)</h4>
-<h4>🧑‍💻 건국대학교 IT 컨퍼런스 소모임 KONNECT 운영</h4>
-<h4>🧑‍💻 2023 교내 SW 경진대회 출전</h4>
-<h4>🧑‍💻 2023 Prompter Day 출전</h4>
-<h4>🧑‍💻 2024 공개 SW 개발자 대회 출전(본선 진출)</h4>
+## Awards 🏆
+
+1️⃣ **2022 전국 아이디어 경진대회 - 우수상**  
+   - 온라인 VR 데이팅 플랫폼 아이디어 구체화를 통한 서비스
+
+2️⃣ **2023 창의설계 경진대회 - 금상(총장상)**  
+   - 차세대 건국대학교 챗봇 서비스 구현 및 시연
+
+3️⃣ **2022 실감미디어 창업 퍼실리테이팅 - 우수상**  
+   - METADATE 창업팀 발표회
+
+4️⃣ **2024 딘스리스트**  
+   - 성적 우수 학생
+
+## Activity 📚
+
+- 🧑‍💻 **건국대학교 HCI 학부 연구 인턴** (UI/UX Undergraduate Research Assistant)
+- 🧑‍💻 **건국대학교 IT 컨퍼런스 소모임 KONNECT 운영**
+- 🧑‍💻 **2023 교내 SW 경진대회 출전**
+- 🧑‍💻 **2023 Prompter Day 출전**
+- 🧑‍💻 **2024 공개 SW 개발자 대회 출전(본선 진출)**
